@@ -1,0 +1,43 @@
+body{
+    background-color: #F9CEEE;
+}
+
+h1{
+    font-family: 'Smooch', serif;
+    text-align: center;
+    font-size: 56px;
+}
+
+.parrafo{ 
+    width: 75%;
+    background-color: #F9F3EE;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    border: 4px dotted goldenrod;
+    padding: 10px;
+    border-radius: 10px;;
+}
+
+figure{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+img{
+    width: 256px;
+    margin: 0 auto;
+    border: 6px dotted goldenrod;
+    border-radius: 100%;
+}
+p{
+    font-family: 'Zen loop',serif;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 24px;
+}
+figcaption{
+    color: gray;
+    font-family: 'Smooch';
+  
+}
